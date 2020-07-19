@@ -4,7 +4,7 @@
 1. Download and place in the weapons folder and unzip. http://pyimg.co/gdxyi
 2. Download the pre-trained network and place it in the main directory. https://github.com/fizyr/keras-retinanet/releases/download/0.5.1/resnet50_coco_best_v2.1.0.h5
 3. Download the output file and place it in the main directory. https://drive.google.com/file/d/1fNtDoOFO4ViPjEi9cFyr_HTjeCiYJwgH/view?usp=sharing
-4. If you have not yet installed the retinanet, click here: [link text](Installing Keras RetinaNet.pdf).
+4. If you have not yet installed the retinanet, click here: (https://drive.google.com/file/d/17TA3XRWSp5TMB_RNv2Ln-kotKuCCeybV/view?usp=sharing).
 
 ## Predict just an image
 run:\
