@@ -6,14 +6,13 @@
 3. Download the output file and place it in the main directory. https://drive.google.com/file/d/1fNtDoOFO4ViPjEi9cFyr_HTjeCiYJwgH/view?usp=sharing
 
 ## Predict just an image
-run:\
-```python predict.py --model output.h5 --labels weapons/retinanet_classes.csv --image weapons/images/armas_1.jpg --confidence 0.5```
-
-## Predicting batch images
-
-run:\
-```python predict_batch.py --model output.h5 --labels weapons/retinanet_classes.csv --input weapons/images/ --output output
+**run:\**
+```python predict.py --model output.h5 --labels weapons/retinanet_classes.csv --image weapons/images/armas_1.jpg --confidence 0.5
 ```
 
-
+## Predicting batch images
+**run:\**
+```python predict_batch.py --model output.h5 --labels weapons/retinanet_classes.csv --input weapons/images/ --output output
+```
+**OUTPUT:\**
 ![Alt text](output/armas_1.jpg?raw=true "Title")
