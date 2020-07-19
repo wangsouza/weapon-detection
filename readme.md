@@ -15,3 +15,5 @@ run:\
 
 OUTPUT:\
 ![Alt text](output/armas_1.jpg?raw=true "Title")
+![Alt text](output/armas_2.jpg?raw=true "Title")
+![Alt text](output/armas_3.jpg?raw=true "Title")
